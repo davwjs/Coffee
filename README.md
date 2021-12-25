@@ -1,6 +1,6 @@
 # Bean
 
-A new Flutter project.
+Coffee application UI/UX with Flutter.
 
 ## Getting Started
 
