@@ -1,4 +1,4 @@
-# Bean
+# Coffee
 
 Coffee application UI/UX with Flutter.
 
